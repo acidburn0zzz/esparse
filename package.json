@@ -7,7 +7,7 @@
   "module": "src/index.js",
   "devDependencies": {
     "annotated": "^0.3.9",
-    "eslint": "^4.19.1"
+    "eslint": "^8.42.0"
   },
   "scripts": {
     "lint": "eslint src/*",
